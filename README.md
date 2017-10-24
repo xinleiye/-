@@ -1,4 +1,4 @@
-# y
+# 移动端新闻页面
 
 > A news app base with vue
 
