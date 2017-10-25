@@ -5,10 +5,14 @@ import App from './App'
 import router from './router'
 
 import VueJsonp from "vue-jsonp";
+import VueScroller from "vue-scroller";
+import {ToastPlugin} from "vux";
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
 
-Vue.use(VueJsonp); 
+Vue.use(VueJsonp);
+Vue.use(VueScroller);
+Vue.use(ToastPlugin);
 
 /* eslint-disable no-new */
 new Vue({
