@@ -1,6 +1,11 @@
 # 移动端新闻页面
 
-> A news app base with vue
+> A news app base with vue2 and vux
+
+首页
+<p align="center">
+  <img src="https://github.com/xinleiye/MobileNews/blob/master/pictures/MobileNewsHome.png">
+</p>
 
 ## Build Setup
 
